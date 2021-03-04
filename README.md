@@ -252,6 +252,9 @@ export default withAuthenticator(App);
 }
 
 ```
+
+
+``` amplify push```
 ## 11. Manually add a record to dynamoDB 
 
 Go to dynamo db
